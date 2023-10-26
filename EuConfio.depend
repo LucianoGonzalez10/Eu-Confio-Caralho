@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698282316 source:c:\users\gonza\onedrive\documentos\euconfio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
